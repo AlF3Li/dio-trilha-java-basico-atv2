@@ -1,5 +1,6 @@
 # dio-trilha-java-basico-atv2
 Olá, pessoal. Fui desafiado novamente pela DIO. Dessa vez me fizeram utilizar tudo aquilo que vim aprendendo durante o curso, focando em Exception e Loops.
+O código do desafio está em: [Ver código do Contador](src/Contador.java)
 
 <h3> 1. Segue abaixo o desafio proposto pelo curo e o link do repositório oficial:</h3>
 
