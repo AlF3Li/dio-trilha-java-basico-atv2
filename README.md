@@ -1,5 +1,5 @@
 # dio-trilha-java-basico-atv2
-Olá, pessoal. Esse desafio me fez utilizar tudo aquilo que vim aprendendo durante o curso, focando em Exception e Loops.
+Olá, pessoal. Fui desafiado novamente pela DIO. Dessa vez me fizeram utilizar tudo aquilo que vim aprendendo durante o curso, focando em Exception e Loops.
 
 <h3> 1. Segue abaixo o desafio proposto pelo curo e o link do repositório oficial:</h3>
 
